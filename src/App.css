@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+body{
+  background-color: beige;
+  border: #282c34;
+  border-width: 5px;
+  border-style: solid;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
